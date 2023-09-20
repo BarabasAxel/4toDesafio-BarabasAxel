@@ -1,0 +1,53 @@
+[
+  {
+    "id": "1",
+    "title": "Producto 1",
+    "description": "Descripción del producto 1",
+    "code": "ABC123",
+    "price": 10,
+    "stock": 50,
+    "category": "Categoria 1",
+    "thumbnails": [
+      "url_1"
+    ],
+    "status": true
+  },
+  {
+    "id": "2",
+    "title": "Producto 2",
+    "description": "Descripción del producto 2",
+    "code": "XYZ456",
+    "price": 19,
+    "stock": 30,
+    "category": "Categoria 2",
+    "thumbnails": [
+      "url_2"
+    ],
+    "status": true
+  },{
+    "id": "3",
+    "title": "Producto 3",
+    "description": "Descripción del producto 3",
+    "code": "DEF789",
+    "price": 15,
+    "stock": 20,
+    "category": "Categoria 3",
+    "thumbnails": [
+      "url_3"
+    ],
+    "status": true
+  },
+  {
+    "id": "1694559468764",
+    "title": "Nuevo Producto",
+    "description": "Descripción del nuevo producto",
+    "code": "NUEVO123",
+    "price": 24,
+    "stock": 10,
+    "category": "Electrónica",
+    "thumbnails": [
+      "ruta_imagen_nuevo.jpg"
+    ],
+    "status": true
+  }
+]
